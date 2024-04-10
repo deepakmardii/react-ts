@@ -1,10 +1,10 @@
 import React from "react";
-import GuestList from "./GuestList";
+import SearchUser from "./SearchUser";
 
 const App = () => {
   return (
     <div>
-      <GuestList />
+      <SearchUser />
     </div>
   );
 };
