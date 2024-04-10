@@ -1,10 +1,10 @@
 import React from "react";
-import Parent from "./props/Parent";
+import GuestList from "./GuestList";
 
 const App = () => {
   return (
     <div>
-      <Parent />
+      <GuestList />
     </div>
   );
 };
